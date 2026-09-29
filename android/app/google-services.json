@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20460188066",
+    "project_id": "labexam2-c6b61",
+    "storage_bucket": "labexam2-c6b61.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20460188066:android:20693734372b474b55c2fb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_labexam_taguba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20460188066-7ennsku7nvft7tj28onngr612fmb1nu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKbqlGk9celZKC6vvxT377OR4zpaVBHns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20460188066-7ennsku7nvft7tj28onngr612fmb1nu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
